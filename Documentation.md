@@ -123,7 +123,7 @@ These measures respond dynamically to whichever slicers (Country, Department, Ge
 
 The finished report (**[global-employee-analytics-dashboard.pbix](https://github.com/DRasool7013/-Global-Employee-Analytics-Dashboard/blob/main/global-employee-analytics-dashboard.pbix)**) is a two-section dashboard:
 
-- A **scorecard page** placing India and New Zealand panels side by side, each with Head Count, Average Salary, a department pie chart, and a top-earners table (see **[Global-Employee-analytis-dashboard.png](Documentation.md)**).
+- A **scorecard page** placing India and New Zealand panels side by side, each with Head Count, Average Salary, a department pie chart, and a top-earners table (see **[Global-Employee-analytis-dashboard.png](https://github.com/DRasool7013/-Global-Employee-Analytics-Dashboard/blob/main/Global-Employee-analytis-dashboard.png)**).
 - Supporting analysis visuals (histogram, salary-by-department chart, performance spread, growth trend, and scatter plot) that answer the remaining business questions and can be filtered using the shared slicer set.
 
 **Headline numbers:** India — 92 employees, $77K average salary. New Zealand — 91 employees, $77K average salary. Both offices show a similar departmental split, with Website and Procurement as the largest functions (~29–30% of headcount each) and HR the smallest (~4%).
