@@ -7,7 +7,7 @@ The company's HR team wanted a single, interactive view of its global workforce 
 - Consolidates raw HR records into a clean, analysis-ready data model.
 - Surfaces core workforce KPIs at a glance.
 - Lets HR stakeholders slice the data by country, department, gender, join date, and name — without needing to write a single query.
-- Answers ten specific business questions defined by stakeholders (see `**[Questions.png](Documentation.md)**.`).
+- Answers ten specific business questions defined by stakeholders (see `**[Questions.png](https://github.com/DRasool7013/-Global-Employee-Analytics-Dashboard/blob/main/Questions.png)**.`).
 
 ---
 
