@@ -185,7 +185,7 @@ See `Questions.png` for the original brief. In summary, the dashboard answers:
 
 ## 📄 Documentation
 
-For a deeper walkthrough of the project goal, data cleaning steps, DAX measures, and insights, see **[Documentation.md](Documentation.md)**.
+For a deeper walkthrough of the project goal, data cleaning steps, DAX measures, and insights, see **[Documentation.md](https://github.com/DRasool7013/-Global-Employee-Analytics-Dashboard/blob/main/Documentation.md)**.
 
 ---
 
