@@ -7,13 +7,13 @@ The company's HR team wanted a single, interactive view of its global workforce 
 - Consolidates raw HR records into a clean, analysis-ready data model.
 - Surfaces core workforce KPIs at a glance.
 - Lets HR stakeholders slice the data by country, department, gender, join date, and name — without needing to write a single query.
-- Answers ten specific business questions defined by stakeholders (see `Questions.png`).
+- Answers ten specific business questions defined by stakeholders (see `**[Questions.png](Documentation.md)**.`).
 
 ---
 
 ## 2. Dataset Description
 
-**Source file:** `hr-data.xlsx`
+**Source file:** **[hr-data.xlsx](Documentation.md)**
 **Sheet:** `Data`
 **Records:** 183 employees
 
@@ -121,9 +121,9 @@ These measures respond dynamically to whichever slicers (Country, Department, Ge
 
 ## 8. Final Result
 
-The finished report (`global-employee-analytics-dashboard.pbix`) is a two-section dashboard:
+The finished report (**[global-employee-analytics-dashboard.pbix](Documentation.md)**) is a two-section dashboard:
 
-- A **scorecard page** placing India and New Zealand panels side by side, each with Head Count, Average Salary, a department pie chart, and a top-earners table (see `Global-Employee-analytis-dashboard.png`).
+- A **scorecard page** placing India and New Zealand panels side by side, each with Head Count, Average Salary, a department pie chart, and a top-earners table (see **[Global-Employee-analytis-dashboard.png](Documentation.md)**).
 - Supporting analysis visuals (histogram, salary-by-department chart, performance spread, growth trend, and scatter plot) that answer the remaining business questions and can be filtered using the shared slicer set.
 
 **Headline numbers:** India — 92 employees, $77K average salary. New Zealand — 91 employees, $77K average salary. Both offices show a similar departmental split, with Website and Procurement as the largest functions (~29–30% of headcount each) and HR the smallest (~4%).
