@@ -143,7 +143,7 @@ See `Questions.png` for the original brief. In summary, the dashboard answers:
 
 1. Clone or download this repository.
 2. Open **[global-employee-analytics-dashboard.pbix](https://github.com/DRasool7013/-Global-Employee-Analytics-Dashboard/blob/main/global-employee-analytics-dashboard.pbix)**.in **Power BI Desktop** (free download from Microsoft).
-3. If prompted, update the data source path to point to your local copy of `hr-data.xlsx`.
+3. If prompted, update the data source path to point to your local copy of `hr-data.xlsx`.**[hr-data.xlsx](https://github.com/DRasool7013/-Global-Employee-Analytics-Dashboard/blob/main/hr-data.xlsx)**
 4. Click **Refresh** on the Home ribbon to load the data.
 5. Interact with the slicers to explore the report.
 
