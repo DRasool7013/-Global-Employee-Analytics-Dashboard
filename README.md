@@ -190,5 +190,6 @@ For a deeper walkthrough of the project goal, data cleaning steps, DAX measures,
 ---
 
 ## 👤 Author
-
-Portfolio project — Power BI / Data Analytics.
+**D. Alla Rasool**
+📧 rasoolpinjari0@gmail.com
+🔗 [LinkedIn](www.linkedin.com/in/drasool7663) • [Portfolio](#)
